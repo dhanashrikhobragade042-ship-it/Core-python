@@ -1,0 +1,8 @@
+print("------ My ID Card ------")
+print("Name : Dhanashri Khobragade")
+print("Roll No.: 12")
+print("DOB : 28/10/2005")
+print("Age : 21")
+print("City : Amravati")
+print("College name : HVPM College of Engineering, Amravati")
+print("Address: Pravin colony, Amravati")
